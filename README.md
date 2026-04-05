@@ -17,9 +17,3 @@ Tugas ini berisi implementasi 5 jenis algoritma pengurutan (sorting) sesuai deng
 
 ---
 
-## 🖥️ Demo Output Program
-*Berikut adalah cuplikan hasil running program (Output):*
-
-### 1. Bubble Sort
-```text
-(PASTE HASIL RUNNING BUBBLE SORT KAMU DI SINI)
